@@ -1,0 +1,1 @@
+# Seeka GTM template - SevenRooms installation
